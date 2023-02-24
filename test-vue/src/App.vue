@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
 import gsaptestRing from './components/gsaptestRing.vue'
+import teststroe from './components/teststroe.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import gsaptestRing from './components/gsaptestRing.vue'
   </div>
   <HelloWorld msg="Vite + Vue" />
   <gsaptestRing></gsaptestRing>
+  <teststroe></teststroe>
 </template>
 
 <style scoped>

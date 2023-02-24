@@ -1,6 +1,6 @@
 <template>
-	gsap使用
-	官网：https://greensock.com/docs/v3
+	<h1 >gsap使用
+	官网：https://greensock.com/docs/v3</h1>
 	<div>
 		圆形拖动组件
 		<div class="btn-wrap">
